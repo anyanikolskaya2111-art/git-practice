@@ -1,0 +1,3 @@
+User: Alice
+Age: 30
+City: Moscow
