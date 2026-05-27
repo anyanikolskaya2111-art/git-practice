@@ -4,6 +4,12 @@ City: Moscow
 User: Bob
 Age: 25
 City: Saint Petersburg
+HEAD
 # line 1
 # line 2
 # line 3
+
+patch line 1
+patch line 2
+patch line 3
+b34441a (Apply patches from dev3 manually)
